@@ -99,7 +99,7 @@ CGTN西语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m
 北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 北京卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 湖南金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-湖南快乐垂钓,http://115.210.62.17:8888/udp/233.50.200.123:5140
+湖南快乐垂钓,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~RHz0NOpqUZZN1Iz6lVLkkg~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNSiF8rKF1Pn2LepKMJ2cEG%2CEND#http://115.210.62.17:8888/udp/233.50.200.123:5140
 江苏优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 内蒙古蒙语卫视,https://stream1.freetv.fun/nei-meng-gu-meng-yu-wei-shi-1.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8

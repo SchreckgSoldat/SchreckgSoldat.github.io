@@ -17,16 +17,16 @@ CCTV14,http://124.90.44.40:6060/010/2/00000001000000060000000000000477?virtualDo
 CCTV15,http://124.90.44.40:6060/010/2/00000001000000060000000000000437?virtualDomain=010.live_hls.zte.com
 CCTV16,http://124.90.44.40:6060/010/2/01000010000000060000000000002805?virtualDomain=010.live_hls.zte.com
 CCTV17,http://124.90.44.40:6060/010/2/00000001000000060000000000000799?virtualDomain=010.live_hls.zte.com
-CETV-1, http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
+CETV-1, http://124.90.44.40:6060/010/2/00000001000000060000000000000432?virtualDomain=010.live_hls.zte.com
 CETV-2, http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
-CETV-4, http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
+CETV-4, http://124.90.44.40:6060/010/2/00000001000000060000000000000632?virtualDomain=010.live_hls.zte.com
 iPanda-中国大熊猫保护研究中心,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2hd.m3u8
-CGTN,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND#https://0472.org/hls/cgtn.m3u8
+CGTN,http://124.90.44.40:6060/010/2/00000001000000060000000000000479?virtualDomain=010.live_hls.zte.com#https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,http://124.90.44.40:6060/010/2/00000001000000060000000000000802?virtualDomain=010.live_hls.zte.com#https://0472.org/hls/cgtna.m3u8
+CGTN俄语,http://124.90.44.40:6060/010/2/00000001000000060000000000000803?virtualDomain=010.live_hls.zte.com#https://0472.org/hls/cgtne.m3u8
+CGTN法语,http://124.90.44.40:6060/010/2/00000001000000060000000000000801?virtualDomain=010.live_hls.zte.com#https://0472.org/hls/cgtnf.m3u8
+CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtualDomain=010.live_hls.zte.com#https://0472.org/hls/cgtnx.m3u8
 
 黑龙江,#genre#
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://39.135.133.170/wh7f454c46tw772307733_-2023820584/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226467/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226532/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226525/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226582/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226585/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#https://stream1.freetv.fun/e2f2e1a310ae7cb86f8cd423017947546e8dd0dbc0b4d9600d9586326509f362.m3u8

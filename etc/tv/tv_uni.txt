@@ -204,6 +204,7 @@ CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtu
 韩国-Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 奥地利-Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 西班牙-Real Madrid TV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+越南-VTV4,https://cdn-live.vtv.vn/HGG2mFC_DixTmfvNGPELLw/1748736705/live/vtv4/vtv4-480p.m3u8
 
 黑龙江县级,#genre#
 黑龙江-哈尔滨-巴彦综合,https://rmplive.hljtv.com/live/bayan.m3u8#https://masterpull.hljtv.com/live/vAtZi96R.m3u8

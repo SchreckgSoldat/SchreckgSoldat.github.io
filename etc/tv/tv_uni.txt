@@ -44,8 +44,8 @@ CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtu
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8#https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
-齐齐哈尔新闻综合,https://rmplive.hljtv.com/live/qiqihaer.m3u8#https://masterpull.hljtv.com/live/dUi8b96l.m3u8#https://live.qqhrnews.com/tv/xinwenzonghe.m3u8?auth_key=1748720284-0-0-8533fdd302715a1a1f086dfa89f743c3
-齐齐哈尔经济法治,https://live.qqhrnews.com/tv/jingjiafazhi.m3u8?auth_key=1748720201-0-0-c8c07f76e4859be6d5fffc18933ac926
+齐齐哈尔新闻综合,https://rmplive.hljtv.com/live/qiqihaer.m3u8#https://masterpull.hljtv.com/live/dUi8b96l.m3u8
+齐齐哈尔经济法治,
 牡丹江新闻综合,rtmp://masterpull.hljtv.com/live/newLqQS9Lcp
 佳木斯新闻综合,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
 大庆新闻综合,https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
@@ -54,7 +54,7 @@ CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtu
 鸡西安全生活,
 双鸭山新闻综合,
 伊春新闻综合,https://rmplive.hljtv.com/live/yichun.m3u8#https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
-伊春绿色林都,https://liveplaysr.dbw.cn/lsdream/6i4bn74/2000/live.m3u8
+伊春绿色林都,,https://liveplaysr.dbw.cn/lsdream/6i4bn74/2000/live.m3u8
 鹤岗新闻综合,https://rmplive.hljtv.com/live/hegang.m3u8#https://masterpull.hljtv.com/live/rApKWXbX.m3u8
 七台河新闻综合,https://rmplive.hljtv.com/live/qitaihe.m3u8#http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8#https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8

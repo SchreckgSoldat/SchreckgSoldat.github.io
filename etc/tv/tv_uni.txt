@@ -17,10 +17,15 @@ CCTV14,http://124.90.44.40:6060/010/2/00000001000000060000000000000477?virtualDo
 CCTV15,http://124.90.44.40:6060/010/2/00000001000000060000000000000437?virtualDomain=010.live_hls.zte.com
 CCTV16,http://124.90.44.40:6060/010/2/01000010000000060000000000002805?virtualDomain=010.live_hls.zte.com
 CCTV17,http://124.90.44.40:6060/010/2/00000001000000060000000000000799?virtualDomain=010.live_hls.zte.com
-CETV-1, http://124.90.44.40:6060/010/2/00000001000000060000000000000432?virtualDomain=010.live_hls.zte.com
-CETV-2, 
-CETV-4, http://124.90.44.40:6060/010/2/00000001000000060000000000000632?virtualDomain=010.live_hls.zte.com
+CETV-1,http://124.90.44.40:6060/010/2/00000001000000060000000000000432?virtualDomain=010.live_hls.zte.com#http://iptv.huuc.edu.cn/hls/cetv1.m3u8
+CETV-2,http://ygbh.site/php/bfgd.php?id=492#http://iptv.huuc.edu.cn/hls/cetv2.m3u8
+CETV-3,http://iptv.huuc.edu.cn/hls/cetv3.m3u8
+CETV-4,http://124.90.44.40:6060/010/2/00000001000000060000000000000632?virtualDomain=010.live_hls.zte.com#http://iptv.huuc.edu.cn/hls/cetv4.m3u8
 iPanda-中国大熊猫保护研究中心,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2hd.m3u8
+CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CGTN,http://124.90.44.40:6060/010/2/00000001000000060000000000000479?virtualDomain=010.live_hls.zte.com#https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN阿语,http://124.90.44.40:6060/010/2/00000001000000060000000000000802?virtualDomain=010.live_hls.zte.com#https://0472.org/hls/cgtna.m3u8
@@ -94,13 +99,14 @@ CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtu
 广西卫视,http://124.90.44.40:6060/010/2/20002000000000010000000002776028?virtualDomain=010.live_hls.zte.com
 贵州卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000584?virtualDomain=010.live_hls.zte.com
 海南卫视,http://124.90.44.40:6060/010/2/20002000000000010000000002776012?virtualDomain=010.live_hls.zte.com
+海南三沙卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.148:11111#http://117.64.102.11:4022/rtp/238.1.78.27:6144#http://61.138.128.226:19901/tsfile/live/1020_1.m3u8
 河北卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000582?virtualDomain=010.live_hls.zte.com
 河南卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000586?virtualDomain=010.live_hls.zte.com
 黑龙江卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000462?virtualDomain=010.live_hls.zte.com
 湖北卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000461?virtualDomain=010.live_hls.zte.com
 湖南卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000394?virtualDomain=010.live_hls.zte.com
 吉林卫视,http://124.90.44.40:6060/010/2/20002000000000010000000002776032?virtualDomain=010.live_hls.zte.com
-吉林延边卫视,
+吉林延边卫视,http://192.168.0.189:8080/yanbian.php?ch=2
 江苏卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000450?virtualDomain=010.live_hls.zte.com
 江西卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000587?virtualDomain=010.live_hls.zte.com
 辽宁卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000583?virtualDomain=010.live_hls.zte.com
@@ -108,7 +114,6 @@ CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtu
 宁夏卫视,http://124.90.44.40:6060/010/2/20002000000000010000000002776710?virtualDomain=010.live_hls.zte.com
 青海卫视,http://124.90.44.40:6060/010/2/20002000000000010000000002775980?virtualDomain=010.live_hls.zte.com
 青海安多卫视,
-三沙卫视,
 山东卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000436?virtualDomain=010.live_hls.zte.com
 山西卫视,http://124.90.44.40:6060/010/2/20002000000000010000000002776020?virtualDomain=010.live_hls.zte.com
 陕西卫视,http://124.90.44.40:6060/010/2/20002000000000010000000002776000?virtualDomain=010.live_hls.zte.com
@@ -119,7 +124,7 @@ CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtu
 天津卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000365?virtualDomain=010.live_hls.zte.com
 厦门卫视,
 西藏卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000390?virtualDomain=010.live_hls.zte.com
-新疆卫视,
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8#http://iptv.huuc.edu.cn/hls/xjtv.m3u8
 新疆兵团卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000429?virtualDomain=010.live_hls.zte.com#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 云南卫视,http://124.90.44.40:6060/010/2/20002000000000010000000002776036?virtualDomain=010.live_hls.zte.com
 浙江卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000392?virtualDomain=010.live_hls.zte.com#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
@@ -301,6 +306,8 @@ BesTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/
 湖南-长沙新闻综合,http://127.0.0.1:8080/hunan.php?id=269
 湖南-长沙政法,http://127.0.0.1:8080/hunan.php?id=254
 湖南-长沙女性,http://127.0.0.1:8080/hunan.php?id=230
+吉林-延边汉语综合,http://192.168.0.189:8080/yanbian.php?ch=0
+吉林-延边朝语综合,http://192.168.0.189:8080/yanbian.php?ch=1
 江苏-南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 江苏-南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 江苏-南京十八,https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8

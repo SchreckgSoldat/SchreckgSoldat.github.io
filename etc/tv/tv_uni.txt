@@ -181,6 +181,7 @@ CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtu
 香港-凤凰香港台,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 香港-TVB翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
 香港-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港-Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 澳门-澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 台湾-民视电视台,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 台湾-三立台湾台,http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
@@ -197,6 +198,8 @@ CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtu
 俄罗斯-Katyucha TV, http://218.202.220.2:5000/nn_live.ts?id=MTV
 美国-Newsmax2,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国-LiveNow from Fox,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+美国-Love Pets,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65265dada6c3830008942a0a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8de1032a-71e8-4216-8110-72f35187d9fa&serverSideAds=false&checkedby:iptvcat.com
+美国-Cats 24/7,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1d9d30b-52fa-4979-a2d6-5066af724ab6&serverSideAds=false&checkedby:iptvcat.com
 加拿大-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 英国-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 日本-NHK World,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8

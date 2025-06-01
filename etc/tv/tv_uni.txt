@@ -360,6 +360,7 @@ CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtu
 河南-驻马店-泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 河南-驻马店-遂平一套,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
 河南-驻马店-新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+河北-张家口-崇礼综合,http://121.29.169.176:2083/rtp/239.253.93.147:6315#http://www.tszhgjj.cn:7000/rtp/239.253.93.147:6315
 湖北-武汉-江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 吉林-白山-靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 吉林-辽源-东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8

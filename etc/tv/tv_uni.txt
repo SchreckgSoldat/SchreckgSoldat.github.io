@@ -35,7 +35,7 @@ CGTN法语,http://124.90.44.40:6060/010/2/00000001000000060000000000000801?virtu
 CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtualDomain=010.live_hls.zte.com#https://0472.org/hls/cgtnx.m3u8
 
 黑龙江,#genre#
-黑龙江卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000462/1000.m3u8?virtualDomain=010.live_hls.zte.com
+黑龙江卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000462/1000.m3u8?virtualDomain=010.live_hls.zte.com#https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8

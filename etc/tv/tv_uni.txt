@@ -17,6 +17,7 @@ CCTV14,http://124.90.44.40:6060/010/2/00000001000000060000000000000477?virtualDo
 CCTV15,http://124.90.44.40:6060/010/2/00000001000000060000000000000437?virtualDomain=010.live_hls.zte.com
 CCTV16,http://124.90.44.40:6060/010/2/01000010000000060000000000002805?virtualDomain=010.live_hls.zte.com
 CCTV17,http://124.90.44.40:6060/010/2/00000001000000060000000000000799?virtualDomain=010.live_hls.zte.com
+CCTV精品台球,http2://bzJ1cXE6Mzc3MTQ2ZWItNTg0NS00MWQ3LWI5MzgtMTE3Y2Y2ZTBlYTQyQGxhMTIwOTkuMjU1c3NsLmNvbToyMjgwNg==?out_id=07ebc75cd68f792987b324b167fe2205&autoConnect=1&isSystemProxy=1&forceUpdate=1
 中国天气,http://218.8.87.96:4000/udp/229.58.190.95:5000#http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CETV-1,http://124.90.44.40:6060/010/2/00000001000000060000000000000432?virtualDomain=010.live_hls.zte.com#http://iptv.huuc.edu.cn/hls/cetv1.m3u8
 CETV-2,http://ygbh.site/php/bfgd.php?id=492#http://iptv.huuc.edu.cn/hls/cetv2.m3u8

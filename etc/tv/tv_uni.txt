@@ -198,8 +198,7 @@ CGTN西语,http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtu
 俄罗斯-Katyucha TV,
 美国-Newsmax2,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国-LiveNow from Fox,
-美国-Love Pets,
-美国-Cats 24/7,
+美国-Love Pets,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63fe7d7eb6312779f56504d3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=n1nYyRD1zukqusHz6ZKu
 加拿大-Love Nature,
 英国-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 日本-NHK World,
